@@ -7,3 +7,5 @@
 numbers = int(input("Введите число: "))
 answer = 123 * numbers
 print(answer)
+
+
